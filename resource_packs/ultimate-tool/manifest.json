@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "e27e77e6-cbf4-40d9-a007-f4087a0fb4e4",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "description": "My Resource Pack",
+      "type": "resources",
+      "uuid": "2cf3de17-3d32-4c76-bee0-31d82df4cb51",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "55191536-db0c-4a8e-b65d-002e3e9056ef",
+      "version": [1, 0, 0]
+    }
+  ]
+}
